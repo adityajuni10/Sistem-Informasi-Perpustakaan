@@ -29,3 +29,8 @@ Data yang dikelola dalam sistem meliputi:
 
 ## Manfaat Sistem
 Sistem Informasi Perpustakaan membantu proses pencatatan menjadi lebih cepat, rapi, dan mudah dikelola. Sistem juga dapat mengurangi kesalahan pencatatan dan mempermudah pencarian informasi.
+
+## Pengembangan Sistem
+Sistem Informasi Perpustakaan dapat dikembangkan dengan
+menggunakan layanan cloud computing agar data dapat diakses
+secara online dan tersimpan secara terpusat.
